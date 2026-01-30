@@ -1,14 +1,19 @@
 # A01
 
 ## Overview
-This project is an introductory assignment for OPIM 5512 that visualizes housing prices using Python.
+This repository contains the first assignment for the **OPIM 5512** course.  
+The objective of this project is to load an open-source dataset and visualize housing prices using Python.
 
 ## Data
 - California Housing Dataset (open-source)
-- The dataset is loaded directly within the Python script.
+- The dataset is pulled programmatically within the Python script (no manual download required).
+
+## Tools & Libraries
+- Python
+- Seaborn
+- Matplotlib
 
 ## How to Run
-- Instructions will be expanded in later assignments.
 - The script loads the dataset and generates a visualization using Python.
 
 ## Expected Output
