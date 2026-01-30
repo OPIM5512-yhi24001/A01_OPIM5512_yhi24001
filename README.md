@@ -18,3 +18,5 @@ The objective of this project is to load an open-source dataset and visualize ho
 
 ## Expected Output
 - A saved boxplot image showing the distribution of **Median House Value**.
+
+![Boxplot](figs/boxplot.png)
