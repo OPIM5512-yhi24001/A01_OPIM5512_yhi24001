@@ -15,6 +15,7 @@ The objective of this project is to load an open-source dataset and visualize ho
 
 ## How to Run
 - The script loads the dataset and generates a visualization using Python.
+- Steps : Clone the repository -> Install required libraries -> Run the python script 
 
 ## Expected Output
 - A saved boxplot image showing the distribution of **Median House Value**.
